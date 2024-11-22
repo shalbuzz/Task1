@@ -1,0 +1,32 @@
+.wine-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 8px;
+    max-width: 300px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  .wine-title {
+    font-size: 20px;
+    margin: 0 0 8px;
+    color: #4a4a4a;
+  }
+  
+  .wine-description {
+    font-size: 14px;
+    margin: 0 0 12px;
+    color: #666;
+  }
+  
+  .wine-rating {
+    font-size: 16px;
+    font-weight: bold;
+    color: #ff9500;
+  }
+  body{
+    height: 100vh;
+    padding:0;
+    margin:0;
+  }
